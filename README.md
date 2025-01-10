@@ -1,7 +1,7 @@
 # Career-Trends-Explorer
 Career Trends Explorer and Personalized Job Matcher
 
-**## Overview**
+## **Overview**
 
 The job market is dynamic, influenced by technological disruptions, economic cycles, and evolving
 work preferences such as remote jobs. This project will leverage advanced data analytics and
